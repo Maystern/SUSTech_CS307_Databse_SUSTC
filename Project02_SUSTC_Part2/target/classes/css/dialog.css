@@ -1,0 +1,55 @@
+.jfx-dialog-overlay-pane {
+    -fx-background-color: rgba(0.0, 0.0, 0.0, 0.1);
+}
+
+.dialog-trigger {
+    -fx-background-color: WHITE;
+    -jfx-button-type: RAISED;
+    -fx-font-size: 14.0px;
+}
+
+.jfx-layout-heading .label {
+    -fx-font-size: 20.0px;
+}
+
+.jfx-button {
+    -fx-background-color: rgba(0, 0, 0, 0);
+    -fx-text-fill: #03A9F4;
+    -fx-font-weight: BOLD;
+    -fx-padding: 0.7em 0.8em;
+    -fx-font-size: 16.0px;
+    -jfx-button-type: FLAT;
+}
+
+.page-button {
+    -fx-background-color: rgba(0, 0, 0, 0);
+    -fx-text-fill: #03A9F4;
+    -fx-font-weight: BOLD;
+    -fx-padding: 0.5em 0.5em;
+    -fx-font-size: 13.0px;
+    -jfx-button-type: FLAT;
+}
+
+.dialog-accept {
+	-fx-background-color: rgba(0, 0, 0, 0);
+    -fx-text-fill: #03A9F4;
+    -fx-font-weight: BOLD;
+    -fx-padding: 0.7em 0.8em;
+    -fx-font-size: 16.0px;
+    -jfx-button-type: FLAT;
+}
+
+.combo-box-popup .list-view .jfx-list-cell {
+    -fx-background-insets: 0.0;
+    -fx-text-fill: BLACK;
+}
+
+.combo-box-popup .list-view .jfx-list-cell:filled:selected {
+    -fx-text-fill: BLACK;
+    -fx-background-color: WHITE;
+}
+
+.combo-box-popup .list-view .jfx-list-cell:filled:hover {
+    -fx-text-fill: WHITE;
+    -fx-background-color: #1e1c1c;
+}

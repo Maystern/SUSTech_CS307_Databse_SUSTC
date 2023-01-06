@@ -1,0 +1,10 @@
+.jfx-button {
+     -jfx-button-type: FLAT;
+     -fx-background-color: SKYBLUE;
+     -fx-text-fill: WHITE;
+     -fx-font-size: 10pt;
+}
+
+.jfx-button .jfx-rippler{
+    -jfx-rippler-fill: rgba(255,255,255, 1);
+}

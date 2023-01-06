@@ -1,1 +1,1 @@
-# SUSTech_CS307_Databse_SUSTC-
+# SUSTech_CS307_Databse_SUSTC

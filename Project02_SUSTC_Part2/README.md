@@ -7,13 +7,11 @@
 
 ## 查看报告
 
-您可以在这里查看[项目要求.pdf](https://github.com/Maystern/SUSTech_CS307_Databse_SUSTC/blob/main/Project01_SUSTC_Part1/doc/CS307-2022Fall_Project1.pdf)。
+您可以在这里查看[项目要求.pdf](https://github.com/Maystern/SUSTech_CS307_Databse_SUSTC/blob/main/Project02_SUSTC_Part2/doc/CS307-2022Fall-Project2.pdf)。
 
-您可以在这里查看[项目报告.md](https://github.com/Maystern/SUSTech_CS307_Databse_SUSTC/blob/main/Project01_SUSTC_Part1/doc/SUSTech_DataBase_Project01_SUSTC.md)。
-
-您可以在这里查看[项目报告.pdf](https://github.com/Maystern/SUSTech_CS307_Databse_SUSTC/blob/main/Project01_SUSTC_Part1/doc/SUSTech_DataBase_Project01_SUSTC.pdf)。
+您可以在这里查看[项目报告.pdf](https://github.com/Maystern/SUSTech_CS307_Databse_SUSTC/blob/main/Project02_SUSTC_Part2/doc/Project%20II%20report.pdf)。
 
 ## 快速开始
 
-我们所提交的报告就在 `submit_src.zip` 中，包括所有需要提交的信息，您可以直接下载使用。
+我们所提交的报告就在 `Project II.zip` 中，包括所有需要提交的信息，您可以直接下载使用。
 
